@@ -5,5 +5,11 @@
     <mapping directory="$PROJECT_DIR$/src/github.com/astaxie/beego" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/beego/bee" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gomodule/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tidwall/gjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tidwall/match" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/yinheli/mahonia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/yunnet/gdkxdl" vcs="Git" />
   </component>
 </project>
